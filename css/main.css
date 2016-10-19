@@ -1,0 +1,115 @@
+.a{
+
+    background-color:coral;
+    border: 0px solid black;
+    align-content: center;
+    margin:auto;
+    position: relative;
+    box-sizing:border-box;
+    height:auto;
+    width:auto;
+
+}
+
+div.jumbotron{
+	padding-top: 60px;
+	image-rendering:  url('/home/vishakha/Downloads/pragya/Facebook_icon.png');
+     background-color: ; 
+      
+}
+
+  
+
+
+.b{
+	background-color:#ffff4d;
+    border: 2px solid black;
+    align-content: center;
+    margin:auto;
+    position: relative;
+    box-sizing:border-box;
+    height:auto;
+    width:auto;
+}
+ 
+.item{
+	width: 150px;
+    height: 150px;
+    -webkit-transition: width 2s, height 4s; /* For Safari 3.1 to 6.0 */
+    transition: width 2s, height 4s;
+
+}
+.item:hover{
+	width: 300px;
+    height: 300px;
+}
+
+.text{
+	padding-top: 70px;
+	margin: auto;
+}
+.table{
+		
+    width: 50%;
+}
+.c{
+	background-color:coral;
+    border: 2px solid black;
+    align-content: center;
+    margin:auto;
+    position: relative;
+    box-sizing:border-box;
+    height:auto;
+    width:80%;
+}
+div.table{
+	width: 50%;
+}
+.d{
+	background-color:lightblue;
+    border: 2px solid black;
+    align-content: center;
+    margin:auto;
+    position: relative;
+    box-sizing:border-box;
+    height:auto;
+    width:80%;
+}
+div.background{
+	background: url(/home/vishakha/Downloads/pragya/sleep_building.jpg) repeat;
+  border: 2px solid black;
+}
+div.transbox {
+  margin: 20px;
+  background-color: #ffffff;
+  border: solid black;
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+div.transbox ul {
+  margin: 10%;
+  font-size: 20px;
+  font-weight: bold;
+  color: #000000;
+}
+
+.e{
+	background-color:#9ef442;
+    border: 2px solid black;
+    align-content: center;
+    margin:auto;
+    position: relative;
+    box-sizing:border-box;
+    height:auto;
+    width:auto;
+}
+
+ol {
+    background: #ff9999;
+    padding: 20px;
+}
+ol li {
+    background: #ffe5e5;
+    padding: 5px;
+    margin-left: 35px;
+}
